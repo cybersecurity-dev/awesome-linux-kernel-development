@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+</p>
+
 # Awesome Linux Kernel Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiUjpgAxbWIvu3waT2qqR-kQ&si=Vsp-lzC8zO3kiaOH) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/kernel/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/POSIX)
 <p align="center">
