@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+    <a href="https://en.wikipedia.org/wiki/Linux_kernel">
+      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+    </a>
 </p>
 
 # Awesome Linux Kernel Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
