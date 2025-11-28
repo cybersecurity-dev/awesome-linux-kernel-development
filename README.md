@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://wikipedia.org/wiki/Linux_kernel">
-          <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
         </a>
     </p>
 
